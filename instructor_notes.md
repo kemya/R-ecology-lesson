@@ -13,7 +13,7 @@ root: .
 > - Understand how to as well formulated questions
 > - Set up participants to have a working directory with a data/ folder inside
 > ### 01
-> - Familurize participants with R syntax
+> - Familiarize participants with R syntax
 > - Understand concepts of objects and assignment
 > - Understand concenpts of vector and data types
 > - Be introduced to functions
@@ -25,7 +25,13 @@ root: .
 > - Understand the concept of a data.frame
 > - Use sequences
 > - Know how to access any element of a data.frame
-> ### 04 
+> ### 04
+> - Learn basic utilities of the dplyr package
+> - Select and filter data
+> - Be able to use magrittr pipes
+> - Create new columns with mutate()
+> - Use the split-apply-combine paradigm to summarize data
+> - Export data with write.csv()
 > ### 05
 > - Visualize data
 > - Understand how to plot data using ggplot2
