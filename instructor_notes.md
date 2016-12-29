@@ -4,6 +4,12 @@ title: Instructor notes
 root: .
 ---
 
+## Instructor notes
+
+### Lesson purpose
+
+The purpose of this lesson is [tofill]
+
 -----------
 > ## Learning Objectives
 > ### 00-before-we-start.Rmd
@@ -44,7 +50,7 @@ root: .
 > - Set universal plot settings.
 > - Modify the aesthetics of an existing ggplot plot (including axis labels and color).
 > - Build complex and customized plots from data in a dataframe.
-> ### 06
+> ### 06-r-and-sql.Rmd
 > - Access and run a SQL query in R.
 > - Create a database from an existing .csv file using SQL syntax.
 > - Recognize how scripted database interactions enhance the reproducibility of data analysis.
