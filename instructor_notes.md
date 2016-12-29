@@ -56,14 +56,20 @@ The purpose of this lesson is [tofill]
 > - Recognize how scripted database interactions enhance the reproducibility of data analysis.
  
 -----------
-## Dataset
-
 
 ### Narrative
 
 **In 00-before-we-start.Rmd**
 
-Help the learners be comfortable with the Rstudio interface. We use RStudio because it helps make using R more organized and user friendly but RStudio is just a wrapper for R. 
+- Introduce in short but with clarity what is the relationship between R (programming/scripting language)
+and RStudio (wrapper or Integrated Development Environment).
+- Emphasize that it is good practice to create projects and organize files within subfolders
+in the same working directory in order to achieve reproducibility and portability.
+- Introduce the 4-panes subdivision of the RStudio interface: 
+the editor for your scripts and documents (top-left),
+the R console (bottom-left),
+your environment/history (top-right),
+and your files/plots/packages/help/viewer (bottom-right).
 
 **In 01-intro-to-R.Rmd**
 
